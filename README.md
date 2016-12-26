@@ -1,0 +1,15 @@
+用于Arudino的授时服务
+=
+测试地址：[`http://time-service-arduino.herokuapp.com/time`](http://time-service-arduino.herokuapp.com/time)<br>
+返回格式如下<br>
+```json
+{"year":2016,"month":12,"day":26,"hour":15,"minute":2,"second":24,"weekday":1}
+```
+其中<br>
+`year`为`年`<br>
+`month`为`月`<br>
+`day`为`日`<br>
+`hour`为`小时`<br>
+`minute`为`分钟`<br>
+`second`为`秒`<br>
+`weekday`为`星期`<br>
