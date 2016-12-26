@@ -1,4 +1,4 @@
-用于Arudino的授时服务
+用于Arduino的授时服务
 =
 测试地址：[`http://time-service-arduino.herokuapp.com/time`](http://time-service-arduino.herokuapp.com/time)<br>
 返回格式如下<br>
