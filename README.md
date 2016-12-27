@@ -1,6 +1,6 @@
 用于Arduino的授时服务
 =
-测试地址：[`http://time-service-arduino.herokuapp.com/time`](http://time-service-arduino.herokuapp.com/time)<br>
+测试地址：[`http://time.wzgy.ml`](http://time.wzgy.ml)<br>
 返回格式如下<br>
 ```json
 {"year":2016,"month":12,"day":26,"hour":15,"minute":2,"second":24,"weekday":1}
