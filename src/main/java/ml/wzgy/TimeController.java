@@ -8,7 +8,7 @@ import java.util.TimeZone;
 
 @RestController
 public class TimeController {
-	@RequestMapping("time")
+	@RequestMapping("**")
 	public DateTime time() {
 		return new DateTime(Calendar.getInstance(TimeZone.getTimeZone("GMT+8")));
 	}
